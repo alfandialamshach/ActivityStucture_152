@@ -9,5 +9,10 @@ struct Mahaiswa {
 };
 int main()
 {
+	Mahaiswa mhs1, mhs2;
 
+	mhs1.nim = "20220140152";
+	mhs1.nama = "Alfandi";
+	mhs1.alamat = "banyumas";
+	mhs1.umur = 19;
 }
