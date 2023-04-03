@@ -7,3 +7,7 @@ struct Mahaiswa {
 	string alamat;
 	int umur
 };
+int main()
+{
+
+}
