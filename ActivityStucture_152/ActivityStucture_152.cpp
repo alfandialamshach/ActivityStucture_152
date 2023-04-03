@@ -24,4 +24,6 @@ int main()
 	cin >> mhs2.alamat;
 	cout << "Masukkan umur: ";
 	cin >> mhs2.umur;
+
+	cout << "\nNim : " mhs1.nim;
 }
