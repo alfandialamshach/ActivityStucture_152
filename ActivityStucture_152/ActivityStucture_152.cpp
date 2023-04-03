@@ -15,4 +15,7 @@ int main()
 	mhs1.nama = "Alfandi";
 	mhs1.alamat = "banyumas";
 	mhs1.umur = 19;
+
+	cout << "Masukkan nim: ";
+
 }
