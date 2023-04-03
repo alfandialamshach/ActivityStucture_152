@@ -17,5 +17,7 @@ int main()
 	mhs1.umur = 19;
 
 	cout << "Masukkan nim: ";
-
+	cin >> mhs2.nim;
+	cout << "Masukkan nama: ";
+	cin >> mhs2.nama;
 }
